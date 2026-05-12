@@ -1,7 +1,7 @@
 ## Hi there, I'm Manikant 👋
 
 - I'm a Computer Science student learning and building in the field of technology.
-- 
+
 Right now, I'm focused on learning more about software development, databases, and machine learning fundamentals.
 
  ## About Me
